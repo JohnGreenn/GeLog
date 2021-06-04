@@ -10,7 +10,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Gelibrary">
-        <activity android:name=".demo.GeLogDemoActivity"></activity>
+        <activity android:name=".demo.GeTabBottomActivity"></activity>
+        <activity android:name=".demo.GeLogDemoActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

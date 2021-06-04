@@ -89,7 +89,7 @@ public class GeViewPrinterProvider {
                 }
             }
         });
-        textView.setText("HiLog");
+        textView.setText("GeLog");
         return floatingView = textView;
     }
 
